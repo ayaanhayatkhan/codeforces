@@ -49,7 +49,7 @@ cout<<"Match found"<<endl;
 else
 cout<<"Not found"<<endl;
 
-// 3. To count the number of times a match is found
+// 4. To count the number of times a match is found
 
 int count = 0;
     for (int i = 0; i < 5; i++)
